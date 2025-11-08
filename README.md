@@ -55,3 +55,18 @@ The Uber pickup data (April–June 2014) is available on Kaggle:
 | `images/` | Visualization charts from the analysis |
 | `Uber_EDA_Report.pdf` | Final analysis report |
 | `README.md` | Project overview & summary |
+
+---
+
+## 👨‍💻 Author
+**Ravi Kumar Gupta**  
+📍 Delhi, India  
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btwitravi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
+
+---
+
+⭐ *An Exploratory Data Analysis (EDA) project on Uber pickups — uncovering ride-demand patterns across New York City using Python and Jupyter Notebook.*
+
+---
