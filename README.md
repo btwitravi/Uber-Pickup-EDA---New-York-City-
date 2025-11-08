@@ -29,6 +29,20 @@ The main goal of this Exploratory Data Analysis (EDA) is to uncover trends in ri
 
 ---
 
+## 📊 Visual Insights
+
+### 🚕Top Bases
+![Top Bases](images/Top_Bases.png)
+
+### 📈 Monthly Trends
+![Monthly Trends](images/Monthly_Trends.png)
+
+### ⏰Hourly Trends
+![Hourly Trends](images/Hourly_Trends.png)
+
+### 📍 Location Distribution 
+![Location Distribution](images/Location_Distribution.png)
+
 ## 📂 Project Structure
 
 | File / Folder | Description |
