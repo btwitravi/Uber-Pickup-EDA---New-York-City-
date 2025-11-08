@@ -1,28 +1,32 @@
-# 📊 Uber Pickup EDA — New York City
+# 🚕 Uber Pickup EDA Project — New York City
 
-## 🧠 Objective
-To explore Uber’s pickup data from **April to June 2014** and identify patterns in trip demand across time and location.  
-The goal is to understand how ride demand varies **daily, weekly, and monthly**, and across different bases, to support better resource planning.
-
----
-
-## 🧰 Tools Used
-- **Jupyter Notebook** – For interactive data exploration and visualization  
-- **Python 🐍**
-  - Pandas  
-  - Matplotlib  
-  - Seaborn  
-  - NumPy  
+## 📘 Overview
+This project focuses on analyzing Uber pickup data in **New York City** from **April to June 2014**.  
+The main goal of this Exploratory Data Analysis (EDA) is to uncover trends in ride demand across time and location to help improve driver deployment and resource planning.
 
 ---
 
-## 📈 Key EDA Findings
-- **Base B02598** recorded the highest number of pickups, showing it as the busiest dispatch base.  
-- Ride demand is highest on **Thursdays and Fridays**, reflecting end-of-week commuting and leisure activity.  
-- **June** experienced the most overall trips compared to April and May.  
-- Rides begin increasing after **5 AM**, peak between **5 PM – 7 PM**, and decrease after **9 PM**.  
-- **Latitude–Longitude** scatterplot shows pickups highly concentrated around **central New York City** zones.
+## 🧠 Objectives
+- Analyze **daily, weekly, and monthly** ride demand patterns.  
+- Identify the **most active dispatch base**.  
+- Examine **hourly demand trends** to spot peak times.  
+- Visualize **pickup concentration** using latitude and longitude.
 
 ---
 
-## 🗂️ Project Structure
+## 🧰 Tools & Technologies
+- **Jupyter Notebook**
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+
+---
+
+## 📊 Key Insights
+- **Base B02598** recorded the highest number of pickups.  
+- Ride demand peaks on **Thursdays and Fridays**.  
+- **June** had the highest overall trip volume.  
+- Rides increase after **5 AM**, peak between **5 PM–7 PM**, and drop after **9 PM**.  
+- Pickups are concentrated in **central New York City zones**.
+
+---
+
+## 📂 Project Structure
