@@ -26,7 +26,9 @@ This analysis helps understand passenger demand behavior, optimize driver alloca
 
 | File / Folder | Description |
 |----------------|--------------|
-| `Uber_EDA_Analysis.ipynb` | Main Jupyter notebook with code & analysis | `UBER_DASHBOARD.pbix` | Dashboard | Dashboard.png | Dashboard view in image
+| `Uber_EDA_Analysis.ipynb` | Main Jupyter notebook with code & analysis |
+| `UBER_DASHBOARD.pbix` | Dashboard |
+| Dashboard.png | Dashboard view in image |
 | `images/` | Visualization charts from the analysis | 
 | `Uber_EDA_Report.pdf` | Final analysis report |
 | `README.md` | Project overview & summary | 
