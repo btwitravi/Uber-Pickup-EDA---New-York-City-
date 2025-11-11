@@ -1,16 +1,25 @@
 # 🚕 Pickup Analysis — New York City (Python | Power Bi)
 
-## 📘 Overview
-This project focuses on analyzing Uber pickup data in **New York City** from **April to June 2014**.  
-The main goal of this Exploratory Data Analysis (EDA) is to uncover trends in ride demand across time and location to help improve driver deployment and resource planning.
+## 🧩 Project Overview
+
+This end-to-end project focuses on analyzing Uber pickup data from New York City (April–June 2014).
+The objective was to uncover ride-demand trends across time and location to improve driver deployment and operational efficiency.
+
+- Python was used for Exploratory Data Analysis (EDA) to identify daily, weekly, and monthly pickup patterns.
+- Excel was utilized for data cleaning and date-time formatting.
+- Power BI was used to design an interactive dashboard visualizing key insights such as base distribution, peak hours, and pickup zones.
+
+This analysis helps understand passenger demand behavior, optimize driver allocation, and support data-driven decision-making
 
 ---
 
 ## 🧠 Objectives
-- Analyze **daily, weekly, and monthly** ride demand patterns.  
-- Identify the **most active dispatch base**.  
-- Examine **hourly demand trends** to spot peak times.  
-- Visualize **pickup concentration** using latitude and longitude.
+
+- Analyze daily, weekly, and monthly ride-demand patterns to understand temporal trends.
+- Identify the most active dispatching bases contributing to overall trip volume.
+- Examine hourly pickup activity to determine peak demand hours.
+- Visualize geographical distribution of pickups using latitude and longitude to locate high-demand zones.
+- Provide actionable insights to help optimize driver allocation and enhance operational efficiency.
 
 ---
 
@@ -52,9 +61,9 @@ The Uber pickup data (April–June 2014) is available on Kaggle:
 | File / Folder | Description |
 |----------------|--------------|
 | `Uber_EDA_Analysis.ipynb` | Main Jupyter notebook with code & analysis |
-| `images/` | Visualization charts from the analysis |
+| `images/` | Visualization charts from the analysis | 
 | `Uber_EDA_Report.pdf` | Final analysis report |
-| `README.md` | Project overview & summary |
+| `README.md` | Project overview & summary | 
 
 ---
 
