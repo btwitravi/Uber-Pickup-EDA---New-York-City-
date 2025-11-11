@@ -22,10 +22,19 @@ This analysis helps understand passenger demand behavior, optimize driver alloca
 - Provide actionable insights to help optimize driver allocation and enhance operational efficiency.
 
 ---
+## 📂 Project Structure
+
+| File / Folder | Description |
+|----------------|--------------|
+| `Uber_EDA_Analysis.ipynb` | Main Jupyter notebook with code & analysis | UBER_DASHBOARD.pbix | Dashboard | Dashboard.png | Dashboard view in image
+| `images/` | Visualization charts from the analysis | 
+| `Uber_EDA_Report.pdf` | Final analysis report |
+| `README.md` | Project overview & summary | 
 
 ## 🧰 Tools & Technologies
 - **Jupyter Notebook**
-- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Power BI**
 
 ---
 
@@ -70,14 +79,7 @@ Key visuals include:
 
 Below is the final Power BI dashboard view:
 
-## 📂 Project Structure
 
-| File / Folder | Description |
-|----------------|--------------|
-| `Uber_EDA_Analysis.ipynb` | Main Jupyter notebook with code & analysis |
-| `images/` | Visualization charts from the analysis | 
-| `Uber_EDA_Report.pdf` | Final analysis report |
-| `README.md` | Project overview & summary | 
 
 ---
 
