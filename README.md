@@ -35,6 +35,7 @@ This analysis helps understand passenger demand behavior, optimize driver alloca
 - **Jupyter Notebook**
 - **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Power BI**
+- **Excel**
 
 ---
 
