@@ -1,4 +1,4 @@
-# 🚕 Pickup Analysis — New York City (Python | Power Bi)
+# 🚕 Uber Pickup Analysis — New York City 
 
 ## 🧩 Project Overview
 
@@ -79,6 +79,8 @@ Key visuals include:
 
 Below is the final Power BI dashboard view:
 
+### Dashboard 
+![Dashboard](Dashboard.png)
 
 
 ---
