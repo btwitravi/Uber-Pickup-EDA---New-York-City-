@@ -56,6 +56,20 @@ The Uber pickup data (April–June 2014) is available on Kaggle:
 ### 📍 Location Distribution 
 ![Location Distribution](images/Location_Distribution.png)
 
+## 📊 Dashboard View
+
+This Power BI dashboard visualizes Uber pickup trends across New York City from April to June 2014.
+It highlights time-based and location-based patterns derived from the Python EDA phase to support data-driven decision-making.
+
+Key visuals include:
+
+- Base Distribution: Identifies the most active dispatch bases.
+- Monthly, Weekly, and Daily Trends: Shows fluctuations in ride demand over time.
+- Hourly Analysis: Reveals peak pickup hours.
+- Geographical Map: Displays pickup concentration across different city zones using latitude and longitude.
+
+Below is the final Power BI dashboard view:
+
 ## 📂 Project Structure
 
 | File / Folder | Description |
