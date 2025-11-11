@@ -1,4 +1,4 @@
-# 🚕 End-to-End Uber Pickup Analysis — New York City (Python | Power Bi)
+# 🚕 Pickup Analysis — New York City (Python | Power Bi)
 
 ## 📘 Overview
 This project focuses on analyzing Uber pickup data in **New York City** from **April to June 2014**.  
