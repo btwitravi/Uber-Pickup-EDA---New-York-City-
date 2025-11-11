@@ -66,6 +66,8 @@ The Uber pickup data (April–June 2014) is available on Kaggle:
 ### 📍 Location Distribution 
 ![Location Distribution](images/Location_Distribution.png)
 
+---
+
 ## 📊 Dashboard View
 
 This Power BI dashboard visualizes Uber pickup trends across New York City from April to June 2014.
@@ -82,8 +84,7 @@ Below is the final Power BI dashboard view:
 
 ### Dashboard 
 ![Dashboard](Dashboard.png)
-
-
+-
 ---
 
 ## 👨‍💻 Author
